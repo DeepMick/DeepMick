@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MackaM00
+- 👋 Hi, I'm DeepMick.
 
 - 👀 I’m interested in pretty much everything.
 
