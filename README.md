@@ -1,6 +1,4 @@
-- 👋 Hi, I'm DeepMick.
-
-- 👀 I’m interested in pretty much everything.
+- 👋 Hi, I'm Mick.
 
 - 🌱 I’m currently learning 'ML/Deep Learning/AI'
 
